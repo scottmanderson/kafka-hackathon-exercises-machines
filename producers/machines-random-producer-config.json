@@ -1,0 +1,8 @@
+[
+  {"machineId": 1, "name": "alpha", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3},
+  {"machineId": 2, "name": "bravo", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3},
+  {"machineId": 3, "name": "charlie", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3},
+  {"machineId": 4, "name": "delta", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3},
+  {"machineId": 5, "name": "echo", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3},
+  {"machineId": 6, "name": "foxtrot", "meanThroughput": 100, "stdevThroughput": 5, "meanTemperature": 25, "stdevTemperature": 3}
+]
